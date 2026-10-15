@@ -9,7 +9,7 @@ idade = int(input("Digite sua idade:"))
 if idade >= 18:
     #Saída 1: exibe a mensagem innformando que a pessoa é maior de idade
     print("Maior de idade")
-#Decisão 2: Verifica se a idade é menor que 18 anos
+#Caso restante
 else:
     #Saída 2: exibe a mensagem innformando que a pessoa é menor de idade
     print("Menor de idade")

@@ -9,6 +9,7 @@ numero = int(input("Digite um número: "))
 if numero % 2 == 0:
     #Saída1 : Informa que o número e par
     print("Par")
+#Caso restante
 else:
     #Saída2: informa que o número é ímpar
     print("Ímpar")

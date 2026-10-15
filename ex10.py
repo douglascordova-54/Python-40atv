@@ -14,3 +14,7 @@ media = (nota1 + nota2) /2
 if media >= 7:
     #Saída 1:Exibe aprovado
     print("Aprovado")
+#Caso restante
+else:
+    #Saída 2: Exibe reprovado
+    print("Reprovado")
